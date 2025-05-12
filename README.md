@@ -1,26 +1,24 @@
-# COMM4190 Spring 2025 - Research Project
-
-* Use this repository for your Research Project
-
-
-### Overview
-
-* The focus of this project is to either:
-  1. Select a theoretical communication framework (e.g. Accomodation Theory) developed to explain human communication behavior and explore its implications for communicating with (in both senses) an LLM.
-  2. Examine a specific communicative context or example (e.g. political debate, interaction between customer and service representive, a messaging campaign in health communication, etc.) and explore whether and how LLMs might be used and the associated implications.
- 
-     
-* Write a paper/report in Markdown using Zotero citations.
-
-
-### Method
-
-* Add notebooks, Markdown files, your BibTex bibliography file, PDFs, images etc. to the repo related to your project.
-* The report should be in a Notebook and use the citation extension of JupyterLab to add citations.
-* You can render the Notebook to PDF using "Save and Export as" function in JupyterLab.
-* You make have additional notebooks or other files to show your empirical LLM work.
+# Research Paper: LLMs in Job Recruitment – Can AI Replace the First Interview?
 
 ---
 
-### DELETE THE ABOVE CONTENT AND USE THIS FILE TO PROVIDE A DESCRIPTION AND OVERVIEW OF YOUR PROJECT
+## Overview
+This research paper investigates the growing role of Large Language Models (LLMs) in the recruitment process, with a specific focus on their ability to conduct first-round job interviews. As AI models like ChatGPT-4 and Gemini become increasingly integrated into hiring pipelines, this paper explores whether they can fully replace human recruiters in evaluating candidates' qualifications, soft skills, and cultural fit.
 
+The paper includes:
+- A historical overview of automation in recruitment
+- A comprehensive literature review on AI hiring tools, bias, and transparency
+- Simulated interview case studies using ChatGPT-4 and Gemini
+- Critical analysis of ethical considerations, including algorithmic bias and dehumanization risks
+- Recommendations for future use of LLMs in hiring
+
+---
+
+## Key Points
+- LLMs are highly effective at conducting structured, surface-level interviews but lack emotional intelligence and cultural sensitivity.
+- AI models risk perpetuating historical hiring biases if not carefully audited.
+- The future of ethical recruitment should prioritize human-AI collaboration rather than full automation.
+
+---
+
+[Onto the paper!](Research_Paper.ipynb)
